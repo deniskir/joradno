@@ -24,7 +24,7 @@ html  body {
  .third{
     width: 350px;
     height: 40px;
-    background-color: rgba(131, 174, 181, 1.52); 
+    background-color: rgb(178, 227, 232); 
     float: right;
     border-bottom-right-radius: 3px;
     
